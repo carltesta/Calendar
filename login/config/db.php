@@ -12,6 +12,6 @@
  * DB_PASS: the password of the above user
  */
 define("DB_HOST", "127.0.0.1");
-define("DB_NAME", "cal");
-define("DB_USER", "root");
-define("DB_PASS", "cft5VPSOCEAN2014");
+define("DB_NAME", "login");
+define("DB_USER", "admin");
+define("DB_PASS", "password");
